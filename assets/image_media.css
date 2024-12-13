@@ -1,0 +1,14 @@
+/* dimension du container du logo a 60px */
+.logo {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* dimension du logo a 50px */
+.logo img {
+    width: 50px;
+    height: 50px;
+}
